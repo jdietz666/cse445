@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/jdietz666/cse445/main/Hotels.xsd">
+
+	<Hotel Rating="4.2" NearestAirport="Sky Harbor">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5" NearestAirport="Palm Springs Intl">
+		<Name>Morongo</Name>
+		<Phone>951-849-3080</Phone>
+		<Address>
+			<Number>49500</Number>
+			<Street>Seminole Dr</Street>
+			<City>Cabazon</City>
+			<State>CA</State>
+			<Zip>92230</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="LAX">
+		<Name>The Beverly Hills Hotel</Name>
+		<Phone>310-276-2251</Phone>
+		<Phone>800-283-8885</Phone>
+		<Address>
+			<Number>9641</Number>
+			<Street>W Sunset Blvd</Street>
+			<City>Beverly Hills</City>
+			<State>CA</State>
+			<Zip>90210</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6" NearestAirport="Harry Reid Intl">
+		<Name>Caesars Palace</Name>
+		<Phone>866-227-5938</Phone>
+		<Address>
+			<Number>3570</Number>
+			<Street>S Las Vegas Blvd</Street>
+			<City>Paradise</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="O'Hare Intl">
+		<Name>The Peninsula Chicago</Name>
+		<Phone>312-337-2888</Phone>
+		<Phone>888-888-8888</Phone>
+		<Address>
+			<Number>108</Number>
+			<Street>E Superior St</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60611</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4" NearestAirport="Philadelphia Intl">
+		<Name>Sofitel Philadelphia</Name>
+		<Phone>215-569-8300</Phone>
+		<Address>
+			<Number>120</Number>
+			<Street>S 17th St</Street>
+			<City>Philadelphia</City>
+			<State>PA</State>
+			<Zip>19103</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.8" NearestAirport="Boston Logan">
+		<Name>Raffles Boston</Name>
+		<Phone>617-858-5888</Phone>
+		<Address>
+			<Number>40</Number>
+			<Street>Trinity Pl</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02116</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="JFK">
+		<Name>Aman New York</Name>
+		<Phone>212-970-7990</Phone>
+		<Address>
+			<Number>30</Number>
+			<Street>5th Ave</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10019</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.7" NearestAirport="Miami Intl">
+		<Name>The Setai, Miami Beach</Name>
+		<Phone>305-520-6000</Phone>
+		<Address>
+			<Number>2001</Number>
+			<Street>Collins Ave</Street>
+			<City>Miami Beach</City>
+			<State>FL</State>
+			<Zip>33139</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel NearestAirport="Honolulu Intl">
+		<Name>ESPACIO The Jewel of Waikiki</Name>
+		<Phone>808-377-2246</Phone>
+		<Address>
+			<Number>2452</Number>
+			<Street>Kalākaua Ave</Street>
+			<City>Honolulu</City>
+			<State>HI</State>
+			<Zip>96815</Zip>
+		</Address>
+	</Hotel>
+
+</Hotels>
